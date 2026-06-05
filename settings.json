@@ -9,7 +9,7 @@
     "ip": "botatsye01.aternos.me",
     "port": 62407,
     "version": "1.20.5",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -73,12 +73,12 @@
     "place-night": true
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/DeCbNW9m6",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
